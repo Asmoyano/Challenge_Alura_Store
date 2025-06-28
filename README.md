@@ -1,16 +1,16 @@
-# 📊 Análisis de Ventas - Alura Store
+# Análisis de Ventas - Alura Store
 
 Este proyecto tiene como objetivo analizar los datos de ventas de las tiendas de la cadena **Alura Store** con el fin de ayudar al **Sr. Juan** a decidir en cuál tienda debería vender sus productos. Esto con el fin de poder saber qué tienda es la que le va a generar mayores ganancias.
 
 ---
 
-## 📌 Objetivo
+## Objetivo
 
 Realizar un análisis completo de los datos disponibles sobre ventas, productos, valoraciones de clientes y logística de las tiendas, para **recomendar la tienda ideal para comercializar los productos del Sr. Juan**.
 
 ---
 
-## 📁 Archivos del proyecto
+## Archivos del proyecto
 
 - `tienda_1.csv`: Datos de las ventas hechas en la Tienda 1
 - `tienda_2.csv`: Datos de las ventas hechas en la Tienda 2
@@ -25,7 +25,7 @@ Realizar un análisis completo de los datos disponibles sobre ventas, productos,
 
 ---
 
-## 🧪 Análisis realizados
+## Análisis realizados
 
 Se analizaron los siguientes aspectos para cada tienda:
 
@@ -37,7 +37,7 @@ Se analizaron los siguientes aspectos para cada tienda:
 
 ---
 
-## 📈 Visualizaciones
+## Visualizaciones
 
 Se generaron gráficos para mostrar de manera clara los resultados:
 
@@ -49,7 +49,7 @@ Se generaron gráficos para mostrar de manera clara los resultados:
 
 ---
 
-## ✅ Conclusión
+## Conclusión
 
 Se recomienda que el Sr. Juan venda en la **Tienda 3**, ya que:
 
@@ -62,7 +62,7 @@ La respuesta se basa en la comparación de las gráficas y el análisis realizad
 
 ---
 
-## 🚀 Requisitos
+## Requisitos
 
 - Python 3.11.13  
 - Bibliotecas:
@@ -71,7 +71,7 @@ La respuesta se basa en la comparación de las gráficas y el análisis realizad
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Moyano Tejeda Adolfo Santiago**  
 Proyecto desarrollado como parte del **Challenge de Ciencia de Datos - Alura LATAM**.
